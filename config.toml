@@ -1,0 +1,17 @@
+
+# link to the files with urls or direct urls
+[blacklists]
+  files = ["domains/blacklists/local-domains.txt"]
+
+  urls = ["https://easylist-downloads.adblockplus.org/fanboy-social.txt"]
+
+[whitelists]
+  files = ["domains/whitelist/private.txt"]
+
+  urls = []
+
+# Where to save result file sith domains
+[output]
+  blacklist = "/tmp/blacklist.txt"
+
+  whitelist = "/tmp/whitelist.txt"
