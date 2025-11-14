@@ -1,5 +1,5 @@
 # Malicious Domains Blacklist (Hosts Format)
-# Generated: 2025-11-14T17:30:23.453207
+# Generated: 2025-11-14T17:35:53.011948
 # Source: 2025-11-14_yalishanda.csv
 # Total domains: 21351
 #
